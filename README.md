@@ -35,6 +35,7 @@ If you are developing a production application, we recommend enabling type-aware
   npm install
 ```
 <br>
+
 ```cmd
   npm run dev
 ```
